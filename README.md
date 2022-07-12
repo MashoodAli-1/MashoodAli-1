@@ -1,4 +1,4 @@
-- 🧑🏻‍💼 Hi, I’m Mashood__Al
+- 🧑🏻‍💼 Hi, I’m Mashood__Ali
 - 🧑🏻‍💻 I’m interested in Full-Stack Blockchain Development. 
 - 💻 I’m currently learning Smart Contract, Web3.js and MERN-Stack
 - 👥 I’m looking to collaborate on smart contract, Dapps and Web3 related Projects.
